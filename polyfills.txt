@@ -1,0 +1,5 @@
+#polyfill:
+
+A polyfill in JavaScript is a piece of code (typically written in JavaScript) that provides 
+modern functionality on older browsers that do not natively support it. It allows developers 
+to use newer JavaScript features while ensuring backward compatibility with older environments.
